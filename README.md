@@ -6,6 +6,10 @@
 </div>
 <br>
 
+## ⚠️ Note
+
+> The project is built for Injective EVM and is currently on a private testnet. The demo is shown using a local network because the private testnet is currently down.
+
 # MOTIVATION
 
 Blockchain is a revolutionary technology with the potential to solve a wide range of societal challenges, offering solutions across industries such as decentralized finance (DeFi), gaming, healthcare, supply chain management, and more. Its decentralized nature enables transparent, secure, and tamper-proof interactions, eliminating the need for intermediaries and enhancing trust in systems.<br>
